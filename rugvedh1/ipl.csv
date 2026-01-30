@@ -1,0 +1,14 @@
+year,match,t1,t2,toss_win,dec,win,los,city,tie_normal,won_by,man_of_match,total_runs_in_match,umpire
+2008,1,csk,rcb,csk,bat,csk,rcb,hyd,normal,98,msd,300,gough
+2008,2,mi,srh,mi,bat,mi,srh,hyd,normal,12,sky,298,nithin
+2008,3,rr,dc,dc,bat,rr,dc,del,normal,23,panth,302,chris
+2008,4,csk,rcb,csk,bowl,rcb,csk,hyd,normal,45,kohli,290,adrian
+2008,5,rcb,mi,mi,bowl,rcb,mi,hyd,normal,56,pandya,291,gough
+2008,6,rr,mi,mi,bat,rr,mit,ben,normal,76,sanju,234,nithin
+2009,1,csk,mi,mi,bat,mi,csk,hyd,normal,23,msd,301,chris
+2009,2,mi,gt,gt,bat,none,none,che,tie,15,rohith,267,adrian
+2009,3,gt,csk,csk,bat,gt,csk,del,normal,67,msd,245,gough
+2009,4,mi,csk,csk,bat,csk,mi,che,normal,78,raina,305,nithin
+2009,5,gt,rr,rr,bowl,gt,rr,che,normal,78,gill,342,chris
+2009,6,rcb,srh,srh,bowl,none,none,ben,tie,56,abd,400,adrian
+2009,7,cks,srh,srh,bat,srh,csk,ben,normal,56,warner,450,nithin
